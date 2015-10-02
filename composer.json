@@ -1,0 +1,14 @@
+{
+    "name": "pcelta/design-patterns",
+    "description": "Simple example of some Design Patterns",
+    "type": "examples",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pedro Ribeiro",
+            "email": "pcelta.ribeiro@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
